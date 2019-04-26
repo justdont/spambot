@@ -1,5 +1,6 @@
 import os
 from pynput.keyboard import Key, Controller
+#oh yeah, you will have to pip this pynput thing
 import time
 keyboard = Controller()
 data = list(input("type in the thing you want to say"))
